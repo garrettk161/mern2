@@ -8,7 +8,7 @@ function App() {
         Hello React!
       </h1>
       <h2>
-        Daniel DeFrance - h48c334
+        Garrett Keith g76v983
       </h2>
 
       <hr />
