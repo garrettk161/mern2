@@ -13,6 +13,7 @@ function App() {
 
       <hr />
       <Counter /><hr />
+      <Counter /><hr />
       <MyGitHub /><hr />
 
     </div>
