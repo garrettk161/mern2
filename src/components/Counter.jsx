@@ -9,7 +9,7 @@ const Counter = (props) => {
     return (
         <div>
             <div>{countState}</div>
-            <button onClick={incCount}>+{$props.incBy}</button>
+            <button onClick={incCount}>+{props.incBy}</button>
         </div>
     )
 }
