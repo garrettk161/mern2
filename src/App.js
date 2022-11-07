@@ -12,8 +12,8 @@ function App() {
       </h2>
 
       <hr />
-      <Counter /><hr />
-      <Counter /><hr />
+      <Counter incBy={1}/><hr />
+      <Counter incBy={331}/><hr />
       <MyGitHub /><hr />
 
     </div>
